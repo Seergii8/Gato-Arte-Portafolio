@@ -1,0 +1,213 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+* {
+box-sizing: border-box;
+}
+
+
+body {background-color: #C16600;
+background-size: 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+margin: 0px;
+cursor: url(img/mouse.png), auto;}
+
+#menuprincipal {
+    height: 70px;
+    text-align: center;
+}
+
+#menuprincipal ul {
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+#menuprincipal ul li {
+    float: left;
+    margin-top: 20px;
+    
+}
+
+#menuprincipal ul li a {
+    color: #C96500;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    padding: 20px;
+
+}
+
+#menuprincipal ul li a:hover {
+    font-size: 24px;
+    background-color: #ED8713;
+}
+
+.elgatotextual {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.elgatotextual h1 {
+    font-size: 40px;
+}
+
+h1{color:#FFDD00;
+font-family: 'Ultra', serif;}
+
+.porque {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.porque b {
+    color: black;
+    font-size: 20px;
+}
+
+.dormir {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.dormir h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.ladieta {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.ladieta h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.ladieta h3 {
+    font-size: 20px;
+    color: black;
+}
+
+.jugueton  {
+   margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.jugueton h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.lamatadepelo  {
+   margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.lamatadepelo h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.lahoradecomer  {
+   margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.lahoradecomer h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.elarenero  {
+   margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+
+.elarenero h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.videos  {
+   margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+}
+
+.videos h2 {
+    font-size: 40px;
+    color: black;
+}
+
+.c4videos {
+    display: flex;
+    margin-left: 16%;
+    margin-right: 16%;
+}
+
+.cuatrovideos {
+    display: flex;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-bottom: 40px;
+}
+
+.backtotop  {
+   background-color: #3C3C3A;
+   margin-left: 35%;
+    margin-right: 35%;
+    height: 0%;
+    margin-bottom: 20px;
+}
+
+.backtotop h2 {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.footer {
+    background-color: black;
+   padding: 50px;
+    position: relative;
+    width: 100%;
+    height: 250px;   
+}
+
+.footer ul{ list-style: none;
+    
+    
+}
+
+.footer h2 {color: #ED8713;}

@@ -1,0 +1,178 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+* {
+box-sizing: border-box;
+}
+
+body {background-color: #C16600;
+background-size: 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+margin: 0px;
+cursor: url(img/mouse.png), auto;}
+
+
+#menuprincipal {
+    height: 70px;
+    text-align: center;
+}
+
+#menuprincipal ul {
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+#menuprincipal ul li {
+    float: left;
+    margin-top: 20px;
+    
+}
+
+#menuprincipal ul li a {
+    color: #C96500;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    padding: 20px;
+
+}
+
+#menuprincipal ul li a:hover {
+    font-size: 24px;
+    background-color: #ED8713;
+}
+
+.graffiti {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.graffiti h1 {
+    font-size: 40px;
+}
+
+h1{color:#FFDD00;
+font-family: 'Ultra', serif;}
+
+.graffiti a {
+   color: #FFDD00;
+    font-size: 18px;
+}
+
+.qeegpm {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.qeegpm h2 {
+    font-size: 30px;
+}
+
+.frase {
+    margin-bottom: 70px;
+}
+.frase h2 {
+    font-size: 35px;
+    
+}
+
+.misgraffitis {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.misgraffitis h2 {
+    font-size: 35px;
+    color: black;
+}
+
+.elmichi {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.dosfotos {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 40px;
+}
+
+.faca {padding-right: 140px;}
+
+.gat {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+ .d2photos {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 40px;
+}
+
+.art {padding-right: 140px;}
+
+.minino {
+     margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.backtotop  {
+   background-color: #3C3C3A;
+   margin-left: 35%;
+    margin-right: 35%;
+    height: 0%;
+    margin-bottom: 20px;
+}
+
+.backtotop h2 {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.footer {
+    background-color: black;
+   padding: 50px;
+    position: relative;
+    width: 100%;
+    height: 250px;   
+}
+
+.footer ul{ list-style: none;
+    
+    
+}
+
+.footer h2 {color: #ED8713;}

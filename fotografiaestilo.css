@@ -1,0 +1,236 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+* {
+box-sizing: border-box;
+}
+
+
+
+
+body {background-color: #C16600;
+background-size: 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+margin: 0px;
+cursor: url(img/mouse.png), auto;}
+
+#menuprincipal {
+    height: 70px;
+    text-align: center;
+}
+
+#menuprincipal ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#menuprincipal ul li {
+    float: left;
+    margin-top: 20px;
+}
+
+#menuprincipal ul li a {
+    color: #C96500;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    padding: 20px;
+}
+
+#menuprincipal ul li a:hover {
+    font-size: 24px;
+    background-color: #ED8713;
+}
+
+h1{color:#FFDD00;
+font-family: 'Ultra', serif;}
+
+p {font-family: 'Inconsolata', monospace;}
+
+.qelf {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.qelf h1 {
+    font-size: 40px;
+}
+
+
+.qelf a {
+   color: #FFDD00;
+    font-size: 18px;
+}
+
+.qelfpm {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.qelfpm h2 {
+    font-size: 30px;
+}
+
+.frase {
+    margin-bottom: 70px;
+}
+.frase h2 {
+    font-size: 35px;
+    
+}
+
+.frase b {
+    font-size: 25px;
+    color: black;
+}
+
+.fotoscolor {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 90px;
+}
+
+.fotoscolor b {
+    color: black;
+    font-size: 50px;
+}
+
+.fac1 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.faca {
+    padding: 35px;
+}
+
+.fac2 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.facb {
+    padding: 35px;
+}
+
+.ultimas {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.uno {
+    padding: 35px;
+}
+
+.dos {
+    padding: 35px;
+}
+
+.tres {
+    padding: 35px;
+}
+
+.fotosblancoynegro {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 90px;
+}
+
+.fotosblancoynegro b {
+    color: black;
+    font-size: 50px;
+}
+
+.fbn1 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.fbna {
+    padding: 35px;
+}
+
+.fbn2 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.fbnb {
+    padding: 35px;
+}
+
+.fbn3 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display:flex;
+}
+
+.fbnc {
+    padding: 35px;
+}
+
+.backtotop  {
+   background-color: #3C3C3A;
+   margin-left: 35%;
+    margin-right: 35%;
+    height: 0%;
+    margin-bottom: 20px;
+}
+
+.backtotop h2 {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.footer {
+    background-color: black;
+   padding: 50px;
+    position: relative;
+    width: 100%;
+    height: 250px;   
+}
+
+.footer ul{ list-style: none;
+    
+    
+}
+
+.footer h2 {color: #ED8713;}
+
+

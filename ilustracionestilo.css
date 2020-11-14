@@ -1,0 +1,247 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+* {
+box-sizing: border-box;
+}
+
+body {
+  color: #000000;
+}
+
+p {font-family: 'Inconsolata', monospace;}
+
+body {background-color: #C16600;
+background-size: 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+margin: 0px;
+cursor: url(img/mouse.png), auto;}
+
+#menuprincipal {
+    height: 70px;
+    text-align: center;
+}
+
+#menuprincipal ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#menuprincipal ul li {
+    float: left;
+    margin-top: 20px;
+}
+
+#menuprincipal ul li a {
+    color: #C96500;
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    padding: 20px;
+}
+
+#menuprincipal ul li a:hover {
+    font-size: 24px;
+    background-color: #ED8713;
+}
+
+.ilustracion h1 {color:#FFDD00;
+font-family: 'Ultra', serif;
+font-size: 40px;}
+
+
+.ilustracion {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.ilustracion a {
+   color: #FFDD00;
+    font-size: 18px;
+}
+
+.qelipm {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+}
+
+.qelipm h2 {
+    font-size: 30px;
+}
+
+.frase {
+    margin-bottom: 70px;
+}
+.frase h2 {
+    font-size: 35px;
+    
+}
+
+.frase b {
+    font-size: 25px;
+    color: black;
+}
+
+.contexto1 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.cbll {
+    width: 40%;
+}
+
+.cbll h2 {
+    font-size: 45px;
+}
+
+.texto1 {
+    width: 60%;
+}
+
+.pi {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.contexto2 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.eld {
+    margin-top: 40px;
+    width: 40%;
+}
+
+.eld h2 {
+    font-size: 45px;
+}
+
+.texto2 {
+    margin-top: 40px;
+    width: 60%;
+}
+
+.si {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+
+.contexto3 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.atv {
+    margin-top: 40px;
+    width: 40%;
+}
+
+.atv h2 {
+    font-size: 45px;
+}
+
+.texto3 {
+    margin-top: 40px;
+    width: 60%;
+}
+
+.ti {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+
+.contexto4 {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.ds {
+    margin-top: 40px;
+    width: 40%;
+}
+
+.ds h2 {
+    font-size: 45px;
+}
+
+.texto4 {
+    margin-top: 40px;
+    width: 60%;
+}
+
+.ci {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.backtotop  {
+   background-color: #3C3C3A;
+    margin-top: 40px;
+   margin-left: 35%;
+    margin-right: 35%;
+    height: 0%;
+    margin-bottom: 20px;
+}
+
+.backtotop h2 {
+    font-size: 20px;
+    padding: 10px;
+    color: white;   
+}
+
+.footer {
+    background-color: black;
+   padding: 50px;
+    position: relative;
+    width: 100%;
+    height: 250px;   
+}
+
+.footer ul{ list-style: none;
+    
+    
+}
+
+.footer h2 {color: #ED8713;}
